@@ -1,0 +1,26 @@
+h2 {
+    color:olivedrab;
+    background-color: indigo;
+    margin: 10px;
+    width: 200px;
+    height: 20px;
+    font-size: 40px;
+    padding: 40px;
+
+
+}
+
+table{
+    size: 20px;
+    margin: 16px;
+    
+}
+
+h4{
+    color: blue;
+    background-color: brown;
+    margin: 12px;
+    width: 200px;
+    font-size: 40px;
+    padding: 40px;
+}
